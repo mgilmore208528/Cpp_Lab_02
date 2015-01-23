@@ -11,7 +11,7 @@ the number of heads and tails.
 
 2. Translate the Guess My Number game from our book into a working C++ program.
 
-3. Create a simple die rolling app. Beliw is a sample of how the program should run.
+3. Create a simple die rolling app. Below is a sample of how the program should run.
 
 *******************************************************
 *   WELCOME to                                        *
